@@ -23,7 +23,7 @@ MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG.
 ## Projetos:
 Veja os projetos desenvolvidos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+#* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy#
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
