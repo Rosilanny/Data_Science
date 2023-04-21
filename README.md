@@ -7,11 +7,13 @@
 # Rosilanny Carvalho
 <sub> *Analista de Produtos Business* at Grupo Boticário</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Profissional com experiência nas áreas de qualidade, pesquisa, orientação empresarial e gestão de produtos. Atuando em empresas de pequeno, médio e grande porte nos segmentos de alimentos, consultoria e cosméticos. 
+Facilitadora no processo de implantação da gestão da inovação em micro e pequenas empresas. Prototipação de soluções que proporcionem diferencial competitivo seja por meio de aumento de receita, redução de custos e aumento de produtividade. 
+Expertise no desenvolvimento e monitoramento planos de ações voltados para aumento de performance de produtos acabados na área de cosméticos.
+Perfil estratégico , dinâmico e analítico voltado para resultados. 
+MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG. Inglês Intermediário.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Análise de Dados, Python e Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rosilanny-carvalho)
