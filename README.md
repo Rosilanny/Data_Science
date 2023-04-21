@@ -13,7 +13,7 @@ Expertise no desenvolvimento e monitoramento planos de ações voltados para aum
 Perfil estratégico , dinâmico e analítico voltado para resultados. 
 MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG. Inglês Intermediário.
 
-**Background in:** Análise de Dados, Python e Machine Learning.
+**Background in:** Visão de Negócio, Análise de Dados, Python e Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rosilanny-carvalho)
