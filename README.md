@@ -23,7 +23,7 @@ MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG.
 ## Projetos:
 Veja os projetos desenvolvidos:
 
-* **Análise dos Dados do Airbnb - Paris:** https://bit.ly/43Zbhpo
+* **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
 
 
 ---
