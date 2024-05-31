@@ -5,7 +5,7 @@
 </p>
 
 # Rosilanny Carvalho
-<sub> *Analista de Produtos Business* at Grupo Boticário</sub>
+<sub> *Especialista de Inteligência e Estratégia Comercial * at Grupo Boticário</sub>
 
 Profissional com experiência nas áreas de qualidade, pesquisa, orientação empresarial e gestão de produtos. Atuando em empresas de pequeno, médio e grande porte nos segmentos de alimentos, consultoria e cosméticos. 
 Facilitadora no processo de implantação da gestão da inovação em micro e pequenas empresas. Prototipação de soluções que proporcionem diferencial competitivo seja por meio de aumento de receita, redução de custos e aumento de produtividade. 
