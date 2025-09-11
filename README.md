@@ -12,14 +12,14 @@ Profissional com experiência em qualidade, pesquisa, orientação empresarial e
 Perfil estratégico, analítico e orientado a resultados, com capacidade de transformar dados em insights acionáveis.
 
 **Formação:** 
-*Mestrado em Ciência de Dados (em andamento)
-*MBA em Gestão de Projetos (USP)
-*Graduação em Engenharia Química (IFNMG)
+* Mestrado em Ciência de Dados (em andamento)
+* MBA em Gestão de Projetos (USP)
+* Graduação em Engenharia Química (IFNMG)
 
 **Background & Skills Técnicas:** 
 * Análise de Dados e Business Intelligence: Python (básico/intermediário), Excel avançado
-*Ciência de Dados e Machine Learning: Conhecimento em modelos supervisionados e não supervisionados, EDA, Feature Engineering e métricas de performance (MAE, RMSE, R²)
-*Projetos e Aplicações: Prototipação de soluções, dashboards e análise de dados aplicada à melhoria de performance de produtos
+* Ciência de Dados e Machine Learning: Conhecimento em modelos supervisionados e não supervisionados, EDA, Feature Engineering e métricas de performance (MAE, RMSE, R²)
+* Projetos e Aplicações: Prototipação de soluções, dashboards e análise de dados aplicada à melhoria de performance de produtos
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rosilanny-araujo/)
@@ -30,7 +30,7 @@ Perfil estratégico, analítico e orientado a resultados, com capacidade de tran
 Veja os projetos desenvolvidos:
 
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
-* **Previsão do valor de vida do Cliente (CLV) :**https://shre.ink/SEcI
+* **Previsão do valor de vida do Cliente (CLV):** https://shre.ink/SEcI
 
 ---
 
