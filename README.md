@@ -5,18 +5,24 @@
 </p>
 
 # Rosilanny Carvalho
-<sub> *Especialista de Inteligência e Estratégia Comercial * at Grupo Boticário</sub>
+<sub> *Especialista em Dados | Inteligência de negócios | Estratégia Omnicanal | SQL Databricks | Data Storytelling * at Lojas Renner SA </sub>
 
-Profissional com experiência nas áreas de qualidade, pesquisa, orientação empresarial e gestão de produtos. Atuando em empresas de pequeno, médio e grande porte nos segmentos de alimentos, consultoria e cosméticos. 
-Facilitadora no processo de implantação da gestão da inovação em micro e pequenas empresas. Prototipação de soluções que proporcionem diferencial competitivo seja por meio de aumento de receita, redução de custos e aumento de produtividade. 
-Expertise no desenvolvimento e monitoramento planos de ações voltados para aumento de performance de produtos acabados na área de cosméticos.
-Perfil estratégico , dinâmico e analítico voltado para resultados. 
-MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG. Inglês Intermediário.
+Profissional com experiência em qualidade, pesquisa, orientação empresarial e gestão de produtos, atuando em empresas de diferentes portes nos setores de alimentos, consultoria e cosméticos. Facilitadora de processos de inovação em micro e pequenas empresas, com foco em prototipação de soluções que geram diferencial competitivo por meio de aumento de receita, redução de custos e otimização da produtividade. Expertise no desenvolvimento e monitoramento de planos de ação para melhorar a performance de produtos acabados, especialmente na área de cosméticos.
 
-**Background in:** Visão de Negócio, Análise de Dados, Python e Machine Learning.
+Perfil estratégico, analítico e orientado a resultados, com capacidade de transformar dados em insights acionáveis.
+
+**Formação:** 
+*Mestrado em Ciência de Dados (em andamento)
+*MBA em Gestão de Projetos (USP)
+*Graduação em Engenharia Química (IFNMG)
+
+**Background & Skills Técnicas:** 
+* Análise de Dados e Business Intelligence: Python (básico/intermediário), Excel avançado
+*Ciência de Dados e Machine Learning: Conhecimento em modelos supervisionados e não supervisionados, EDA, Feature Engineering e métricas de performance (MAE, RMSE, R²)
+*Projetos e Aplicações: Prototipação de soluções, dashboards e análise de dados aplicada à melhoria de performance de produtos
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/rosilanny-carvalho)
+* [LinkedIn](https://www.linkedin.com/in/rosilanny-araujo/)
 * [Medium](https://medium.com/@rosilannysoares)
 
 
@@ -24,7 +30,7 @@ MBA em Gestão de Projetos pela USP. Graduada em Engenharia Química pelo IFNMG.
 Veja os projetos desenvolvidos:
 
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
-
+* **Previsão do valor de vida do Cliente (CLV) :**https://shre.ink/SEcI
 
 ---
 
