@@ -4,7 +4,7 @@
   <img src="bannerq.png" >
 </p>
 
-# Rosilanny Arauyjo
+# Rosilanny Carvalho
 <sub> *Especialista em Dados | Inteligência de negócios | Estratégia Omnicanal | SQL Databricks | Data Storytelling* at Lojas Renner SA </sub>
 
 Profissional com experiência em qualidade, pesquisa, orientação empresarial e gestão de produtos, atuando em empresas de diferentes portes nos setores de alimentos, consultoria e cosméticos. Facilitadora de processos de inovação em micro e pequenas empresas, com foco em prototipação de soluções que geram diferencial competitivo por meio de aumento de receita, redução de custos e otimização da produtividade. Expertise no desenvolvimento e monitoramento de planos de ação para melhorar a performance de produtos acabados, especialmente na área de cosméticos.
