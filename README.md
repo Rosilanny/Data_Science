@@ -30,7 +30,7 @@ Perfil estratégico, analítico e orientado a resultados, com capacidade de tran
 Veja os projetos desenvolvidos:
 
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
-* **Previsão do valor de vida do Cliente (CLV):** https://shre.ink/SZmM
+* **Previsão do valor de vida do Cliente (CLV):** https://shre.ink/SZ1V
 
 ---
 
