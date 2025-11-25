@@ -31,6 +31,7 @@ Veja os projetos desenvolvidos:
 
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
 * **Previsão do valor de vida do Cliente (CLV):** https://shre.ink/SZ1V
+* * **Mapeando Oportunidades e Desigualdades no Mercado de Trabalho Nordestino:** https://shre.ink/qFTN
 
 ---
 
