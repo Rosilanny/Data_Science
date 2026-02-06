@@ -31,7 +31,7 @@ Veja os projetos desenvolvidos:
 
 * **Análise dos Dados do Airbnb - Paris:** https://bit.ly/41NKCKE
 * **Previsão do valor de vida do Cliente (CLV):** https://shre.ink/SZ1V
-* **Inclusão, Gênero e Raça no Emprego Nordestino:** https://shre.ink/qFTN
+* **Quem consegue se empregar no Nordeste brasileiro?:Uma análise estatística com dados da PNAD Contínua :** https://shre.ink/5nWH
 * **Classificação de Sentimentos:Heurística vs TF-IDF :** https://shre.ink/5ndb
 ---
 
